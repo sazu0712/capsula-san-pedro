@@ -1,13 +1,13 @@
 import React, { useState } from "react";
 
 const shirtBaseImages = {
-  blanco: "/mockups/blanco.png",
-  negro: "/mockups/negro.png",
-  azul: "/mockups/bebe.png",
+  blanco: "/mockups/camiseta_blanco.png",
+  negro: "/mockups/camiseta_negro.png",
+  azul: "/mockups/camiseta_azul.png",
   verde: "/mockups/agua.png",
   gris: "/mockups/camiseta_gris.png",
-  marfil: "/mockups/marfil.png",
-  cafe: "/mockups/cafe.png",
+  marfil: "/mockups/camiseta_marfil.png",
+  cafe: "/mockups/camiseta_cafe.png",
   palorosa: "/mockups/palorosa.png",
 };
 
