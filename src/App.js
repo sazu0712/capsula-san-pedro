@@ -14,7 +14,7 @@ const shirtBaseImages = {
 const stampOptions = [
   {
     name: "Tambora",
-    src: "/mockups/tambora.png",
+    src: "/mockups/Tambora.png",
     style: {
       top: "40%",
       left: "50%",
@@ -24,7 +24,7 @@ const stampOptions = [
   },
   {
     name: "Tocado",
-    src: "/mockups/tocado.png",
+    src: "/mockups/Tocado.png",
     style: {
       top: "30%",
       left: "55%",
@@ -34,7 +34,7 @@ const stampOptions = [
   },
   {
     name: "Ole y Entonces",
-    src: "/mockups/ole_y_entonces.png",
+    src: "/mockups/Ole_y_entonces.png",
     style: {
       top: "27%",
       left: "50%",
@@ -44,7 +44,7 @@ const stampOptions = [
   },
   {
     name: "Sirvame uno",
-    src: "/mockups/sirva.png",
+    src: "/mockups/Sirva.png",
     style: {
       top: "35%",
       left: "50%",
@@ -54,7 +54,7 @@ const stampOptions = [
   },
   {
     name: "Neiva York",
-    src: "/mockups/neivayork.png",
+    src: "/mockups/Neivayork.png",
     style: {
       top: "30%",
       left: "52%",
@@ -74,7 +74,7 @@ const stampOptions = [
   },
   {
     name: "Corona de flor",
-    src: "/mockups/corona.png",
+    src: "/mockups/Corona.png",
     style: {
       top: "18%",
       left: "51%",
