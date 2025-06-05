@@ -1,14 +1,14 @@
 import React, { useState } from "react";
 
 const shirtBaseImages = {
-  blanco: "/mockups/camiseta_blanco.png",
-  negro: "/mockups/camiseta_negro.png",
-  azul: "/mockups/camiseta_azul_bebe.png",
-  verde: "/mockups/camiseta_verde_agua.png",
+  blanco: "/mockups/blanco.png",
+  negro: "/mockups/negro.png",
+  azul: "/mockups/bebe.png",
+  verde: "/mockups/agua.png",
   gris: "/mockups/camiseta_gris.png",
-  marfil: "/mockups/camiseta_marfil.png",
-  cafe: "/mockups/camiseta_cafe.png",
-  palorosa: "/mockups/camiseta_palo_rosa.png",
+  marfil: "/mockups/marfil.png",
+  cafe: "/mockups/cafe.png",
+  palorosa: "/mockups/palorosa.png",
 };
 
 const stampOptions = [
