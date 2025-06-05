@@ -4,11 +4,11 @@ const shirtBaseImages = {
   blanco: "/mockups/camiseta_blanco.png",
   negro: "/mockups/camiseta_negro.png",
   azul: "/mockups/camiseta_azul.png",
-  verde: "/mockups/agua.png",
+  verde: "/mockups/camiseta_verde.png",
   gris: "/mockups/camiseta_gris.png",
   marfil: "/mockups/camiseta_marfil.png",
   cafe: "/mockups/camiseta_cafe.png",
-  palorosa: "/mockups/palorosa.png",
+  palorosa: "/mockups/camiseta_palorosa.png",
 };
 
 const stampOptions = [
